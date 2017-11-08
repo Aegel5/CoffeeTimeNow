@@ -1,0 +1,13 @@
+**.opensdf
+**.sdf
+**.aps
+**.vcxproj.user
+**.suo
+**.VC.db
+**.VC.opendb
+**/*Release/*
+**/*Debug/*
+**/ipch/*
+**/SimpleSwitcher/zip/*
+**/.vs
+/.project

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeAnalizer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaConfig.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="pagemain.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="LockWnd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CoffeeTimeNow.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>res</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>res</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="consts.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalData.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="gui.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimateWnd.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ctutils.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeAnalizer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="CoffeeTimeNow.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>res</Filter>
+    </Image>
+    <Image Include="favicon.ico">
+      <Filter>res</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{1a5cbbcf-57c9-4a99-9cf9-8ff599061b1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res">
+      <UniqueIdentifier>{20ebcc89-0b33-4168-b5a6-a5805859ed77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CofeeTimeNow.rc">
+      <Filter>res</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
